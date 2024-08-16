@@ -1,0 +1,1901 @@
+2024-07-30 09:03:19.766 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 09:03:20.262 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 09:03:20.265 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 09:03:20.267 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 09:03:20.268 +03:00 [INF] Hosting environment: Development
+2024-07-30 09:03:20.269 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 09:03:21.534 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 09:03:21.806 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 276.9091ms
+2024-07-30 09:03:21.814 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 09:03:21.814 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 09:03:21.828 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 14.6557ms
+2024-07-30 09:03:21.955 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 141.5827ms
+2024-07-30 09:03:21.993 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 09:03:22.071 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 78.6073ms
+2024-07-30 10:13:41.575 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 10:13:41.784 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 10:13:41.786 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 10:13:41.788 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 10:13:41.789 +03:00 [INF] Hosting environment: Development
+2024-07-30 10:13:41.791 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 10:13:43.284 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 10:13:43.475 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 194.2179ms
+2024-07-30 10:13:43.480 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 10:13:43.481 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 10:13:43.490 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 9.8076ms
+2024-07-30 10:13:43.527 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.6165ms
+2024-07-30 10:13:43.565 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 10:13:43.647 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 81.4547ms
+2024-07-30 14:52:28.390 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 14:52:28.683 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 14:52:28.684 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 14:52:28.686 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 14:52:28.688 +03:00 [INF] Hosting environment: Development
+2024-07-30 14:52:28.689 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 14:52:29.623 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 14:52:29.848 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 228.1112ms
+2024-07-30 14:52:29.853 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 14:52:29.854 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 14:52:29.865 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 12.3358ms
+2024-07-30 14:52:29.931 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 77.8124ms
+2024-07-30 14:52:29.978 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 14:52:30.067 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 89.6637ms
+2024-07-30 14:58:34.150 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 14:58:34.343 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 14:58:34.345 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 14:58:34.348 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 14:58:34.349 +03:00 [INF] Hosting environment: Development
+2024-07-30 14:58:34.350 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 14:58:35.038 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 14:58:35.232 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 198.4046ms
+2024-07-30 14:58:35.238 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 14:58:35.238 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 14:58:35.257 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 20.0219ms
+2024-07-30 14:58:35.286 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.8974ms
+2024-07-30 14:58:35.325 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 14:58:35.404 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 79.3266ms
+2024-07-30 14:58:56.353 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-30 14:58:56.365 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-30 14:58:56.381 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 14:58:56.406 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 14:58:56.431 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-30 14:58:57.620 +03:00 [INF] Executed DbCommand (34ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 14:58:57.652 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 14:58:57.934 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 14:58:57.945 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 14:58:58.053 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 14:58:58.082 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-30 14:58:58.094 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 14:58:58.104 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 1692.4558ms
+2024-07-30 14:58:58.106 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 14:58:58.110 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDA3MzcsImV4cCI6MTcyMjM0MDc1NywiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.wyVMdMLGOaFpD_SBhWLcJyx-jX06qBbRN-nVDAZ2w4Q","expiration":"2024-07-30T11:59:17.8770947Z","refreshToken":"qgpweJbdw/kdPLHZgJxKbMUlt+7g63Dy8HSjKYE/2GA="}}
+2024-07-30 14:58:58.116 +03:00 [INF] Duration: 1749.2212ms
+2024-07-30 14:58:58.136 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 1783.0641ms
+2024-07-30 14:59:11.868 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 14:59:11.872 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 14:59:11.946 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 14:59:11.954 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 14:59:12.005 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryResponse'.
+2024-07-30 14:59:12.025 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+2024-07-30 14:59:12.031 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 14:59:12.034 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 77.2128ms
+2024-07-30 14:59:12.035 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 14:59:12.036 +03:00 [INF] ResponseBody: {"students":[{"firstName":"Mehmet","lastName":"Yasir","birthDate":"2024-07-22T14:26:57.921","gender":"Erkek","email":"asgnkjang@gmail.com","phoneNumber":"05684259823","address":"Bülbül sokak","courses":[],"id":"fbabde47-f900-4658-3e15-08dcaa5a698f","createdDate":"2024-07-22T14:27:27.634026","updatedDate":"2024-07-24T06:27:29.5319244"},{"firstName":"Zeynep","lastName":"Yeşim","birthDate":"2024-07-22T14:26:57.921","gender":"Kadın","email":"saghrh@gmail.com","phoneNumber":"05364562286","address":"Kartal/İstanbul","courses":[],"id":"81572b3c-9b3d-49e6-3e16-08dcaa5a698f","createdDate":"2024-07-22T14:27:58.2704923","updatedDate":"0001-01-01T00:00:00"},{"firstName":"string","lastName":"string","birthDate":"2024-07-22T14:33:02.844","gender":"string","email":"deneme","phoneNumber":"6545645faf","address":"addresdeneme","courses":[],"id":"acee5671-c030-4206-d076-08dcaa5b3407","createdDate":"2024-07-22T14:33:07.3166961","updatedDate":"2024-07-23T12:42:45.4747012"},{"firstName":"Ayşe","lastName":"Kurt","birthDate":"2024-07-25T09:35:22.752","gender":"Kadı","email":"asgg126g@hotmail.com","phoneNumber":"01111111","address":"Üsküdar/İstanbul","courses":[],"id":"e02bacc9-41ac-446d-520a-08dcac8d3208","createdDate":"2024-07-25T09:36:22.9163235","updatedDate":"2024-07-25T10:43:19.5590039"},{"firstName":"string","lastName":"string","birthDate":"2024-07-25T10:44:10.574","gender":"kadı","email":"string","phoneNumber":"string","address":"string","courses":[],"id":"ba4070b0-7f0f-4c50-579f-08dcac96bba0","createdDate":"2024-07-25T10:44:17.2753168","updatedDate":"0001-01-01T00:00:00"}]}
+2024-07-30 14:59:12.037 +03:00 [INF] Duration: 165.6224ms
+2024-07-30 14:59:12.039 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 200 null application/json; charset=utf-8 170.872ms
+2024-07-30 15:02:32.538 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 15:02:32.753 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 15:02:32.754 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 15:02:32.757 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:02:32.758 +03:00 [INF] Hosting environment: Development
+2024-07-30 15:02:32.759 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 15:02:33.446 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 15:02:33.645 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 202.8156ms
+2024-07-30 15:02:33.652 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 15:02:33.653 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 15:02:33.661 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 8.994ms
+2024-07-30 15:02:33.706 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.2627ms
+2024-07-30 15:02:33.745 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 15:02:33.825 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 80.2163ms
+2024-07-30 15:02:39.201 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-30 15:02:39.215 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-30 15:02:39.227 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 15:02:39.249 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 15:02:39.274 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-30 15:02:40.348 +03:00 [INF] Executed DbCommand (30ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 15:02:40.377 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 15:02:40.590 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 15:02:40.599 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 15:02:40.689 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 15:02:40.708 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-30 15:02:40.720 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 15:02:40.726 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 1472.0036ms
+2024-07-30 15:02:40.729 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 15:02:40.731 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDA5NjAsImV4cCI6MTcyMjM0MDk4MCwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.3v03OWe6efAJU9hQTUbAaR9v_TG_YXkOEkj1vzrqp7w","expiration":"2024-07-30T12:03:00.5494416Z","refreshToken":"rY0rk5gBHo3rW+GlIroMFXMxgQHi6g+9tDZNUJ9NztY="}}
+2024-07-30 15:02:40.734 +03:00 [INF] Duration: 1520.7902ms
+2024-07-30 15:02:40.743 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 1542.5171ms
+2024-07-30 15:02:50.363 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 15:02:50.367 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 15:02:50.432 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 15:02:50.442 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 15:02:50.496 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryResponse'.
+2024-07-30 15:02:50.515 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+2024-07-30 15:02:50.522 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 15:02:50.524 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 78.867ms
+2024-07-30 15:02:50.525 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 15:02:50.527 +03:00 [INF] ResponseBody: {"students":[{"firstName":"Mehmet","lastName":"Yasir","birthDate":"2024-07-22T14:26:57.921","gender":"Erkek","email":"asgnkjang@gmail.com","phoneNumber":"05684259823","address":"Bülbül sokak","courses":[],"id":"fbabde47-f900-4658-3e15-08dcaa5a698f","createdDate":"2024-07-22T14:27:27.634026","updatedDate":"2024-07-24T06:27:29.5319244"},{"firstName":"Zeynep","lastName":"Yeşim","birthDate":"2024-07-22T14:26:57.921","gender":"Kadın","email":"saghrh@gmail.com","phoneNumber":"05364562286","address":"Kartal/İstanbul","courses":[],"id":"81572b3c-9b3d-49e6-3e16-08dcaa5a698f","createdDate":"2024-07-22T14:27:58.2704923","updatedDate":"0001-01-01T00:00:00"},{"firstName":"string","lastName":"string","birthDate":"2024-07-22T14:33:02.844","gender":"string","email":"deneme","phoneNumber":"6545645faf","address":"addresdeneme","courses":[],"id":"acee5671-c030-4206-d076-08dcaa5b3407","createdDate":"2024-07-22T14:33:07.3166961","updatedDate":"2024-07-23T12:42:45.4747012"},{"firstName":"Ayşe","lastName":"Kurt","birthDate":"2024-07-25T09:35:22.752","gender":"Kadı","email":"asgg126g@hotmail.com","phoneNumber":"01111111","address":"Üsküdar/İstanbul","courses":[],"id":"e02bacc9-41ac-446d-520a-08dcac8d3208","createdDate":"2024-07-25T09:36:22.9163235","updatedDate":"2024-07-25T10:43:19.5590039"},{"firstName":"string","lastName":"string","birthDate":"2024-07-25T10:44:10.574","gender":"kadı","email":"string","phoneNumber":"string","address":"string","courses":[],"id":"ba4070b0-7f0f-4c50-579f-08dcac96bba0","createdDate":"2024-07-25T10:44:17.2753168","updatedDate":"0001-01-01T00:00:00"}]}
+2024-07-30 15:02:50.529 +03:00 [INF] Duration: 162.3528ms
+2024-07-30 15:02:50.530 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 200 null application/json; charset=utf-8 167.9419ms
+2024-07-30 15:02:56.924 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 15:02:56.927 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 15:02:56.931 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 15:02:56.933 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 15:02:56.945 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryResponse'.
+2024-07-30 15:02:56.949 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+2024-07-30 15:02:56.952 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 15:02:56.953 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 18.2599ms
+2024-07-30 15:02:56.954 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 15:02:56.955 +03:00 [INF] ResponseBody: {"students":[{"firstName":"Mehmet","lastName":"Yasir","birthDate":"2024-07-22T14:26:57.921","gender":"Erkek","email":"asgnkjang@gmail.com","phoneNumber":"05684259823","address":"Bülbül sokak","courses":[],"id":"fbabde47-f900-4658-3e15-08dcaa5a698f","createdDate":"2024-07-22T14:27:27.634026","updatedDate":"2024-07-24T06:27:29.5319244"},{"firstName":"Zeynep","lastName":"Yeşim","birthDate":"2024-07-22T14:26:57.921","gender":"Kadın","email":"saghrh@gmail.com","phoneNumber":"05364562286","address":"Kartal/İstanbul","courses":[],"id":"81572b3c-9b3d-49e6-3e16-08dcaa5a698f","createdDate":"2024-07-22T14:27:58.2704923","updatedDate":"0001-01-01T00:00:00"},{"firstName":"string","lastName":"string","birthDate":"2024-07-22T14:33:02.844","gender":"string","email":"deneme","phoneNumber":"6545645faf","address":"addresdeneme","courses":[],"id":"acee5671-c030-4206-d076-08dcaa5b3407","createdDate":"2024-07-22T14:33:07.3166961","updatedDate":"2024-07-23T12:42:45.4747012"},{"firstName":"Ayşe","lastName":"Kurt","birthDate":"2024-07-25T09:35:22.752","gender":"Kadı","email":"asgg126g@hotmail.com","phoneNumber":"01111111","address":"Üsküdar/İstanbul","courses":[],"id":"e02bacc9-41ac-446d-520a-08dcac8d3208","createdDate":"2024-07-25T09:36:22.9163235","updatedDate":"2024-07-25T10:43:19.5590039"},{"firstName":"string","lastName":"string","birthDate":"2024-07-25T10:44:10.574","gender":"kadı","email":"string","phoneNumber":"string","address":"string","courses":[],"id":"ba4070b0-7f0f-4c50-579f-08dcac96bba0","createdDate":"2024-07-25T10:44:17.2753168","updatedDate":"0001-01-01T00:00:00"}]}
+2024-07-30 15:02:56.957 +03:00 [INF] Duration: 29.8256ms
+2024-07-30 15:02:56.959 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 200 null application/json; charset=utf-8 34.8524ms
+2024-07-30 15:03:01.762 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 15:03:01.765 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 15:03:01.774 +03:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidLifetimeException: IDX10230: Lifetime validation failed. Delegate returned false, securitytoken: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2024-07-30 15:03:01.793 +03:00 [INF] Admin was not authenticated. Failure message: IDX10230: Lifetime validation failed. Delegate returned false, securitytoken: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+2024-07-30 15:03:01.795 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-30 15:03:01.800 +03:00 [INF] AuthenticationScheme: Admin was challenged.
+2024-07-30 15:03:01.801 +03:00 [INF] Response:
+StatusCode: 401
+WWW-Authenticate: [Redacted]
+2024-07-30 15:03:01.802 +03:00 [INF] Duration: 36.8392ms
+2024-07-30 15:03:01.803 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 401 0 null 40.8878ms
+2024-07-30 15:03:16.611 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - application/json 70
+2024-07-30 15:03:16.616 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/RefreshTokenLogin
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 70
+Postman-Token: [Redacted]
+2024-07-30 15:03:16.617 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 15:03:16.624 +03:00 [INF] Route matched with {action = "RefreshTokenLogin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshTokenLogin(StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 15:03:16.627 +03:00 [INF] RequestBody: {
+  "refreshToken": "rY0rk5gBHo3rW+GlIroMFXMxgQHi6g+9tDZNUJ9NztY="
+}
+2024-07-30 15:03:16.642 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__refreshToken_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[RefreshToken] = @__refreshToken_0
+2024-07-30 15:03:16.772 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api) in 145.7341ms
+2024-07-30 15:03:16.775 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 15:03:16.795 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-30 15:03:16.796 +03:00 [INF] Duration: 181.1815ms
+2024-07-30 15:03:16.799 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Kullanıcı bulunamadı!
+   at StudentPortalAPI.Persistence.Services.AuthService.RefreshTokenLoginAsync(String refreshToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Persistence\Services\AuthService.cs:line 60
+   at StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandHandler.Handle(RefreshTokenLoginCommandRequest request, CancellationToken cancellationToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\Features\Commands\AppUsers\RefreshTokenLogin\RefreshTokenLoginCommandHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin(RefreshTokenLoginCommandRequest refreshTokenLoginCommandRequest) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Controllers\AuthController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Program.<>c.<<<Main>$>b__0_4>d.MoveNext() in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Program.cs:line 106
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-30 15:03:16.834 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - 500 null text/plain; charset=utf-8 222.9671ms
+2024-07-30 15:55:51.518 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 15:55:51.724 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 15:55:51.726 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 15:55:51.728 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:55:51.729 +03:00 [INF] Hosting environment: Development
+2024-07-30 15:55:51.731 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 15:55:52.465 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 15:55:52.671 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 208.3529ms
+2024-07-30 15:55:52.680 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 15:55:52.680 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 15:55:52.704 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 24.1313ms
+2024-07-30 15:55:52.738 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 58.8771ms
+2024-07-30 15:55:52.785 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 15:55:52.873 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.4149ms
+2024-07-30 15:55:59.949 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/api/Students - null null
+2024-07-30 15:55:59.964 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Host: localhost:7125
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-30 15:56:00.034 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-30 15:56:00.039 +03:00 [INF] AuthenticationScheme: Admin was challenged.
+2024-07-30 15:56:00.041 +03:00 [INF] Response:
+StatusCode: 401
+WWW-Authenticate: [Redacted]
+2024-07-30 15:56:00.045 +03:00 [INF] Duration: 80.9462ms
+2024-07-30 15:56:00.048 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/api/Students - 401 0 null 99.3374ms
+2024-07-30 15:58:07.192 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 15:58:07.388 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 15:58:07.390 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 15:58:07.392 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 15:58:07.393 +03:00 [INF] Hosting environment: Development
+2024-07-30 15:58:07.394 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 15:58:07.881 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 15:58:08.088 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 209.4487ms
+2024-07-30 15:58:08.094 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 15:58:08.094 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 15:58:08.110 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 16.195ms
+2024-07-30 15:58:08.143 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.5201ms
+2024-07-30 15:58:08.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 15:58:08.292 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 104.122ms
+2024-07-30 15:58:12.213 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/api/Students - null null
+2024-07-30 15:58:12.226 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Host: localhost:7125
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-30 15:58:12.287 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-30 15:58:12.292 +03:00 [INF] AuthenticationScheme: Admin was challenged.
+2024-07-30 15:58:12.294 +03:00 [INF] Response:
+StatusCode: 401
+WWW-Authenticate: [Redacted]
+2024-07-30 15:58:12.297 +03:00 [INF] Duration: 70.7497ms
+2024-07-30 15:58:12.300 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/api/Students - 401 0 null 87.397ms
+2024-07-30 15:58:36.585 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-30 15:58:36.589 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-30 15:58:36.594 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 15:58:36.614 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 15:58:36.637 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-30 15:58:37.691 +03:00 [INF] Executed DbCommand (32ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 15:58:37.720 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 15:58:37.894 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 15:58:37.901 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 15:58:37.995 +03:00 [INF] Executed DbCommand (9ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 15:58:38.014 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-30 15:58:38.021 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 15:58:38.028 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 1407.4896ms
+2024-07-30 15:58:38.030 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 15:58:38.032 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDQzMTcsImV4cCI6MTcyMjM0NDMzNywiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.kRIU672I0-dfHic-8C5HM8Py7eUd4oZJuiQWSsNHYkw","expiration":"2024-07-30T12:58:57.8654513Z","refreshToken":"+AKkW2+E5ypfFjrkhXi+CVNDfqFnqZQraxUViBhnggM="}}
+2024-07-30 15:58:38.033 +03:00 [INF] Duration: 1443.5396ms
+2024-07-30 15:58:38.041 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 1455.9176ms
+2024-07-30 15:59:47.894 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-30 15:59:47.898 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-30 15:59:47.900 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 15:59:47.902 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 15:59:47.905 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-30 15:59:47.957 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 15:59:47.964 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 15:59:48.032 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 15:59:48.036 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 15:59:48.043 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 15:59:48.047 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-30 15:59:48.049 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 15:59:48.050 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 145.8213ms
+2024-07-30 15:59:48.051 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 15:59:48.052 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDQzODgsImV4cCI6MTcyMjM0NDQwOCwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.WM6TxMiZIty-GCm8YyTj_IhPX3Mjbd9iY-k8jepLN_g","expiration":"2024-07-30T13:00:08.0295663Z","refreshToken":"Qsn75wOBPOrz21q0q0gs3UePBfTs/lrsP/IAcAOlIx4="}}
+2024-07-30 15:59:48.054 +03:00 [INF] Duration: 155.5199ms
+2024-07-30 15:59:48.055 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 161.1923ms
+2024-07-30 16:00:06.868 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 16:00:06.871 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 16:00:06.906 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:00:06.912 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 16:00:07.021 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 105.4098ms
+2024-07-30 16:00:07.023 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:00:07.042 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-30 16:00:07.043 +03:00 [INF] Duration: 172.5541ms
+2024-07-30 16:00:07.047 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Hata üstüne hata!!!
+   at StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryHandler.Handle(GetAllStudentQueryRequest request, CancellationToken cancellationToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\Features\Queires\Students\GetAllStudent\GetAllStudentQueryHandler.cs:line 24
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at StudentPortalAPI.Api.Controllers.StudentsController.Get(GetAllStudentQueryRequest getAllStudentQueryRequest) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Controllers\StudentsController.cs:line 37
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Program.<>c.<<<Main>$>b__0_4>d.MoveNext() in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Program.cs:line 109
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-07-30 16:00:07.087 +03:00 [ERR] Hata üstüne hata!!!
+2024-07-30 16:00:07.094 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 500 null application/json 226.0393ms
+2024-07-30 16:02:56.997 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 16:02:57.202 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-30 16:02:57.203 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-30 16:02:57.206 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-30 16:02:57.207 +03:00 [INF] Hosting environment: Development
+2024-07-30 16:02:57.208 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-30 16:02:57.814 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-30 16:02:58.090 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-30 16:02:58.090 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-30 16:02:58.093 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 284.4419ms
+2024-07-30 16:02:58.117 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 36.7663ms
+2024-07-30 16:02:58.163 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.6162ms
+2024-07-30 16:02:58.220 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-30 16:02:58.314 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.4855ms
+2024-07-30 16:03:00.931 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-30 16:03:00.947 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-30 16:03:00.961 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 16:03:00.982 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 16:03:01.007 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-30 16:03:02.048 +03:00 [INF] Executed DbCommand (36ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 16:03:02.076 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 16:03:02.276 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 16:03:02.284 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 16:03:02.368 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 16:03:02.386 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-30 16:03:02.397 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 16:03:02.404 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 1415.9611ms
+2024-07-30 16:03:02.408 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 16:03:02.410 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDQ1ODIsImV4cCI6MTcyMjM0NDYwMiwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.1zYEuAmWkugbgS7uRhHspiqTJl2cFtPlBMwoDc3bHZI","expiration":"2024-07-30T13:03:22.2372197Z","refreshToken":"Nznv6FUtk3/kv9/2DpgeGmRgl45TP+S3cbtOGTscsmE="}}
+2024-07-30 16:03:02.413 +03:00 [INF] Duration: 1466.9488ms
+2024-07-30 16:03:02.422 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 1490.9626ms
+2024-07-30 16:03:14.364 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 16:03:14.367 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 16:03:14.432 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:03:14.440 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 16:03:14.497 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryResponse'.
+2024-07-30 16:03:14.516 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+2024-07-30 16:03:14.524 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 16:03:14.525 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 83.3421ms
+2024-07-30 16:03:14.527 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:03:14.529 +03:00 [INF] ResponseBody: {"students":[{"firstName":"Mehmet","lastName":"Yasir","birthDate":"2024-07-22T14:26:57.921","gender":"Erkek","email":"asgnkjang@gmail.com","phoneNumber":"05684259823","address":"Bülbül sokak","courses":[],"id":"fbabde47-f900-4658-3e15-08dcaa5a698f","createdDate":"2024-07-22T14:27:27.634026","updatedDate":"2024-07-24T06:27:29.5319244"},{"firstName":"Zeynep","lastName":"Yeşim","birthDate":"2024-07-22T14:26:57.921","gender":"Kadın","email":"saghrh@gmail.com","phoneNumber":"05364562286","address":"Kartal/İstanbul","courses":[],"id":"81572b3c-9b3d-49e6-3e16-08dcaa5a698f","createdDate":"2024-07-22T14:27:58.2704923","updatedDate":"0001-01-01T00:00:00"},{"firstName":"string","lastName":"string","birthDate":"2024-07-22T14:33:02.844","gender":"string","email":"deneme","phoneNumber":"6545645faf","address":"addresdeneme","courses":[],"id":"acee5671-c030-4206-d076-08dcaa5b3407","createdDate":"2024-07-22T14:33:07.3166961","updatedDate":"2024-07-23T12:42:45.4747012"},{"firstName":"Ayşe","lastName":"Kurt","birthDate":"2024-07-25T09:35:22.752","gender":"Kadı","email":"asgg126g@hotmail.com","phoneNumber":"01111111","address":"Üsküdar/İstanbul","courses":[],"id":"e02bacc9-41ac-446d-520a-08dcac8d3208","createdDate":"2024-07-25T09:36:22.9163235","updatedDate":"2024-07-25T10:43:19.5590039"},{"firstName":"string","lastName":"string","birthDate":"2024-07-25T10:44:10.574","gender":"kadı","email":"string","phoneNumber":"string","address":"string","courses":[],"id":"ba4070b0-7f0f-4c50-579f-08dcac96bba0","createdDate":"2024-07-25T10:44:17.2753168","updatedDate":"0001-01-01T00:00:00"}]}
+2024-07-30 16:03:14.530 +03:00 [INF] Duration: 162.5362ms
+2024-07-30 16:03:14.531 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 200 null application/json; charset=utf-8 167.4191ms
+2024-07-30 16:03:21.044 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 16:03:21.047 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 16:03:21.052 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:03:21.053 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 16:03:21.068 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryResponse'.
+2024-07-30 16:03:21.072 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+2024-07-30 16:03:21.075 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 16:03:21.076 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 20.9221ms
+2024-07-30 16:03:21.077 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:03:21.078 +03:00 [INF] ResponseBody: {"students":[{"firstName":"Mehmet","lastName":"Yasir","birthDate":"2024-07-22T14:26:57.921","gender":"Erkek","email":"asgnkjang@gmail.com","phoneNumber":"05684259823","address":"Bülbül sokak","courses":[],"id":"fbabde47-f900-4658-3e15-08dcaa5a698f","createdDate":"2024-07-22T14:27:27.634026","updatedDate":"2024-07-24T06:27:29.5319244"},{"firstName":"Zeynep","lastName":"Yeşim","birthDate":"2024-07-22T14:26:57.921","gender":"Kadın","email":"saghrh@gmail.com","phoneNumber":"05364562286","address":"Kartal/İstanbul","courses":[],"id":"81572b3c-9b3d-49e6-3e16-08dcaa5a698f","createdDate":"2024-07-22T14:27:58.2704923","updatedDate":"0001-01-01T00:00:00"},{"firstName":"string","lastName":"string","birthDate":"2024-07-22T14:33:02.844","gender":"string","email":"deneme","phoneNumber":"6545645faf","address":"addresdeneme","courses":[],"id":"acee5671-c030-4206-d076-08dcaa5b3407","createdDate":"2024-07-22T14:33:07.3166961","updatedDate":"2024-07-23T12:42:45.4747012"},{"firstName":"Ayşe","lastName":"Kurt","birthDate":"2024-07-25T09:35:22.752","gender":"Kadı","email":"asgg126g@hotmail.com","phoneNumber":"01111111","address":"Üsküdar/İstanbul","courses":[],"id":"e02bacc9-41ac-446d-520a-08dcac8d3208","createdDate":"2024-07-25T09:36:22.9163235","updatedDate":"2024-07-25T10:43:19.5590039"},{"firstName":"string","lastName":"string","birthDate":"2024-07-25T10:44:10.574","gender":"kadı","email":"string","phoneNumber":"string","address":"string","courses":[],"id":"ba4070b0-7f0f-4c50-579f-08dcac96bba0","createdDate":"2024-07-25T10:44:17.2753168","updatedDate":"0001-01-01T00:00:00"}]}
+2024-07-30 16:03:21.079 +03:00 [INF] Duration: 31.794ms
+2024-07-30 16:03:21.080 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 200 null application/json; charset=utf-8 36.1966ms
+2024-07-30 16:03:34.125 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - application/json 70
+2024-07-30 16:03:34.129 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/RefreshTokenLogin
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 70
+Postman-Token: [Redacted]
+2024-07-30 16:03:34.130 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 16:03:34.133 +03:00 [INF] Route matched with {action = "RefreshTokenLogin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshTokenLogin(StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 16:03:34.137 +03:00 [INF] RequestBody: {
+  "refreshToken": "Nznv6FUtk3/kv9/2DpgeGmRgl45TP+S3cbtOGTscsmE="
+}
+2024-07-30 16:03:34.151 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__refreshToken_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[RefreshToken] = @__refreshToken_0
+2024-07-30 16:03:34.287 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api) in 151.4173ms
+2024-07-30 16:03:34.289 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 16:03:34.310 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-30 16:03:34.311 +03:00 [INF] Duration: 182.3623ms
+2024-07-30 16:03:34.314 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Kullanıcı bulunamadı!
+   at StudentPortalAPI.Persistence.Services.AuthService.RefreshTokenLoginAsync(String refreshToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Persistence\Services\AuthService.cs:line 60
+   at StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandHandler.Handle(RefreshTokenLoginCommandRequest request, CancellationToken cancellationToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\Features\Commands\AppUsers\RefreshTokenLogin\RefreshTokenLoginCommandHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin(RefreshTokenLoginCommandRequest refreshTokenLoginCommandRequest) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Controllers\AuthController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Program.<>c.<<<Main>$>b__0_4>d.MoveNext() in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Program.cs:line 109
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-07-30 16:03:34.349 +03:00 [ERR] Kullanıcı bulunamadı!
+2024-07-30 16:03:34.355 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - 500 null application/json 230.5142ms
+2024-07-30 16:03:47.381 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - application/json 70
+2024-07-30 16:03:47.385 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/RefreshTokenLogin
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 70
+Postman-Token: [Redacted]
+2024-07-30 16:03:47.386 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 16:03:47.387 +03:00 [INF] Route matched with {action = "RefreshTokenLogin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshTokenLogin(StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 16:03:47.390 +03:00 [INF] RequestBody: {
+  "refreshToken": "Nznv6FUtk3/kv9/2DpgeGmRgl45TP+S3cbtOGTscsmE="
+}
+2024-07-30 16:03:47.394 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__refreshToken_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[RefreshToken] = @__refreshToken_0
+2024-07-30 16:03:47.478 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api) in 88.164ms
+2024-07-30 16:03:47.480 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 16:03:47.501 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-30 16:03:47.502 +03:00 [INF] Duration: 117.9896ms
+2024-07-30 16:03:47.504 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Kullanıcı bulunamadı!
+   at StudentPortalAPI.Persistence.Services.AuthService.RefreshTokenLoginAsync(String refreshToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Persistence\Services\AuthService.cs:line 60
+   at StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandHandler.Handle(RefreshTokenLoginCommandRequest request, CancellationToken cancellationToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\Features\Commands\AppUsers\RefreshTokenLogin\RefreshTokenLoginCommandHandler.cs:line 18
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin(RefreshTokenLoginCommandRequest refreshTokenLoginCommandRequest) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Controllers\AuthController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Program.<>c.<<<Main>$>b__0_4>d.MoveNext() in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Program.cs:line 109
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-07-30 16:03:47.512 +03:00 [ERR] Kullanıcı bulunamadı!
+2024-07-30 16:03:47.514 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - 500 null application/json 132.1734ms
+2024-07-30 16:03:51.004 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-30 16:03:51.007 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-30 16:03:51.009 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 16:03:51.010 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 16:03:51.012 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-30 16:03:51.019 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 16:03:51.024 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 16:03:51.092 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 16:03:51.096 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 16:03:51.105 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 16:03:51.109 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-30 16:03:51.110 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 16:03:51.111 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 99.1084ms
+2024-07-30 16:03:51.112 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-30 16:03:51.113 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDQ2MzEsImV4cCI6MTcyMjM0NDY1MSwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.F0HjfYfuZFOZEJ4cjfx0zntfYIj1_-PLlgpWfLY9v6U","expiration":"2024-07-30T13:04:11.0906676Z","refreshToken":"YGM4d8Ln0x0vj73xqBgvX1dK2i/RpJH4Qhp9pBMspi4="}}
+2024-07-30 16:03:51.115 +03:00 [INF] Duration: 107.4465ms
+2024-07-30 16:03:51.116 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 112.2395ms
+2024-07-30 16:04:00.697 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - application/json 70
+2024-07-30 16:04:00.700 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/RefreshTokenLogin
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 70
+Postman-Token: [Redacted]
+2024-07-30 16:04:00.701 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 16:04:00.703 +03:00 [INF] Route matched with {action = "RefreshTokenLogin", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshTokenLogin(StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-30 16:04:00.705 +03:00 [INF] RequestBody: {
+  "refreshToken": "YGM4d8Ln0x0vj73xqBgvX1dK2i/RpJH4Qhp9pBMspi4="
+}
+2024-07-30 16:04:00.721 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[@__refreshToken_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[RefreshToken] = @__refreshToken_0
+2024-07-30 16:04:00.726 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-30 16:04:00.732 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-30 16:04:00.736 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-30 16:04:00.740 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.RefreshTokenLogin.RefreshTokenLoginCommandResponse'.
+2024-07-30 16:04:00.743 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 16:04:00.744 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api) in 39.1385ms
+2024-07-30 16:04:00.745 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.RefreshTokenLogin (StudentPortalAPI.Api)'
+2024-07-30 16:04:00.746 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjIzNDQ2NDAsImV4cCI6MTcyMjM0NDY2MCwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.Ij3QfUW9CfGYouXJYdLkl8TultotdYXByJyVLsUk4kI","expiration":"2024-07-30T13:04:20.7242884Z","refreshToken":"wyDxuqBYfFYKMFErbz6Y1cAGNBtl6q/T5yn9CYMxZhA="}}
+2024-07-30 16:04:00.747 +03:00 [INF] Duration: 46.7712ms
+2024-07-30 16:04:00.749 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/RefreshTokenLogin - 200 null application/json; charset=utf-8 51.2718ms
+2024-07-30 16:04:10.059 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7125/api/Students - null null
+2024-07-30 16:04:10.062 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Postman-Token: [Redacted]
+2024-07-30 16:04:10.065 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:04:10.066 +03:00 [INF] Route matched with {action = "Get", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-30 16:04:10.070 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Queires.Students.GetAllStudent.GetAllStudentQueryResponse'.
+2024-07-30 16:04:10.073 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+2024-07-30 16:04:10.075 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-30 16:04:10.076 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api) in 8.1278ms
+2024-07-30 16:04:10.077 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Get (StudentPortalAPI.Api)'
+2024-07-30 16:04:10.078 +03:00 [INF] ResponseBody: {"students":[{"firstName":"Mehmet","lastName":"Yasir","birthDate":"2024-07-22T14:26:57.921","gender":"Erkek","email":"asgnkjang@gmail.com","phoneNumber":"05684259823","address":"Bülbül sokak","courses":[],"id":"fbabde47-f900-4658-3e15-08dcaa5a698f","createdDate":"2024-07-22T14:27:27.634026","updatedDate":"2024-07-24T06:27:29.5319244"},{"firstName":"Zeynep","lastName":"Yeşim","birthDate":"2024-07-22T14:26:57.921","gender":"Kadın","email":"saghrh@gmail.com","phoneNumber":"05364562286","address":"Kartal/İstanbul","courses":[],"id":"81572b3c-9b3d-49e6-3e16-08dcaa5a698f","createdDate":"2024-07-22T14:27:58.2704923","updatedDate":"0001-01-01T00:00:00"},{"firstName":"string","lastName":"string","birthDate":"2024-07-22T14:33:02.844","gender":"string","email":"deneme","phoneNumber":"6545645faf","address":"addresdeneme","courses":[],"id":"acee5671-c030-4206-d076-08dcaa5b3407","createdDate":"2024-07-22T14:33:07.3166961","updatedDate":"2024-07-23T12:42:45.4747012"},{"firstName":"Ayşe","lastName":"Kurt","birthDate":"2024-07-25T09:35:22.752","gender":"Kadı","email":"asgg126g@hotmail.com","phoneNumber":"01111111","address":"Üsküdar/İstanbul","courses":[],"id":"e02bacc9-41ac-446d-520a-08dcac8d3208","createdDate":"2024-07-25T09:36:22.9163235","updatedDate":"2024-07-25T10:43:19.5590039"},{"firstName":"string","lastName":"string","birthDate":"2024-07-25T10:44:10.574","gender":"kadı","email":"string","phoneNumber":"string","address":"string","courses":[],"id":"ba4070b0-7f0f-4c50-579f-08dcac96bba0","createdDate":"2024-07-25T10:44:17.2753168","updatedDate":"0001-01-01T00:00:00"}]}
+2024-07-30 16:04:10.080 +03:00 [INF] Duration: 18.205ms
+2024-07-30 16:04:10.081 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7125/api/Students - 200 null application/json; charset=utf-8 22.6623ms
+2024-07-31 10:27:14.414 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:27:14.897 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-31 10:27:14.899 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-31 10:27:14.902 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:27:14.903 +03:00 [INF] Hosting environment: Development
+2024-07-31 10:27:14.904 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-31 10:27:15.691 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-31 10:27:16.015 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 328.3021ms
+2024-07-31 10:27:16.016 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-31 10:27:16.016 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:27:16.051 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 34.6218ms
+2024-07-31 10:27:16.104 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 88.131ms
+2024-07-31 10:27:16.146 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-31 10:27:16.235 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 89.2484ms
+2024-07-31 10:27:17.792 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-31 10:27:17.804 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-31 10:27:17.822 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 10:27:17.854 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-31 10:27:17.917 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-31 10:27:19.597 +03:00 [INF] Executed DbCommand (48ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 10:27:19.625 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 10:27:19.916 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 10:27:19.930 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 10:27:20.043 +03:00 [INF] Executed DbCommand (12ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-31 10:27:20.071 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-31 10:27:20.086 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-31 10:27:20.099 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 2238.7011ms
+2024-07-31 10:27:20.102 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 10:27:20.105 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjI0MTA4MzksImV4cCI6MTcyMjQxMTczOSwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.UPpLLB7YUe50fqpnM1fmqzKVr0iRiGCcH4w1Lu1koV8","expiration":"2024-07-31T07:42:19.853874Z","refreshToken":"jIk3ompvadT0aYfsxES4mxzI13XrXZcu1/S5n6lkfHI="}}
+2024-07-31 10:27:20.108 +03:00 [INF] Duration: 2304.4705ms
+2024-07-31 10:27:20.118 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 2325.4835ms
+2024-07-31 10:29:26.024 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 217
+2024-07-31 10:29:26.031 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 217
+Postman-Token: [Redacted]
+2024-07-31 10:29:26.104 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 10:29:26.109 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 10:29:26.113 +03:00 [INF] RequestBody: {
+  "firstName": "Mahmut",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Erkeks",
+  "email": "mahmuttuncer@gmail.com",
+  "phoneNumber": "05647825688",
+  "address": "Tunceli"
+}
+2024-07-31 10:29:26.245 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (DbType = DateTime2), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Students] ([Id], [Address], [BirthDate], [CreatedDate], [Email], [FirstName], [Gender], [LastName], [PhoneNumber], [UpdatedDate])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+2024-07-31 10:29:26.255 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-31 10:29:26.257 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 145.7926ms
+2024-07-31 10:29:26.259 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 10:29:26.260 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-31 10:29:26.261 +03:00 [INF] Duration: 229.6219ms
+2024-07-31 10:29:26.262 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 200 0 null 238.1934ms
+2024-07-31 10:41:39.227 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 10:41:39.420 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-31 10:41:39.422 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-31 10:41:39.424 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:41:39.425 +03:00 [INF] Hosting environment: Development
+2024-07-31 10:41:39.427 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-31 10:41:39.954 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-31 10:41:40.135 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 184.3759ms
+2024-07-31 10:41:40.140 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 10:41:40.140 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-31 10:41:40.148 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 8.0964ms
+2024-07-31 10:41:40.181 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.2277ms
+2024-07-31 10:41:40.222 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-31 10:41:40.319 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 97.9999ms
+2024-07-31 10:42:01.809 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 214
+2024-07-31 10:42:01.818 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 214
+Postman-Token: [Redacted]
+2024-07-31 10:42:01.926 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 10:42:01.947 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 10:42:02.084 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Erkek",
+  "email": "ahmettuncer@gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 10:42:02.888 +03:00 [INF] Executed DbCommand (33ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (DbType = DateTime2), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Students] ([Id], [Address], [BirthDate], [CreatedDate], [Email], [FirstName], [Gender], [LastName], [PhoneNumber], [UpdatedDate])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+2024-07-31 10:42:02.910 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-31 10:42:02.916 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 962.3613ms
+2024-07-31 10:42:02.918 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 10:42:02.921 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-31 10:42:02.925 +03:00 [INF] Duration: 1107.4235ms
+2024-07-31 10:42:02.937 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 200 0 null 1128.3308ms
+2024-07-31 10:42:18.121 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/students/hub - null null
+2024-07-31 10:42:18.129 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /students/hub
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7125
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-31 10:42:18.133 +03:00 [INF] Executing endpoint 'students/hub'
+2024-07-31 10:42:18.139 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: text/plain
+Cache-Control: [Redacted]
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: [Redacted]
+2024-07-31 10:42:18.142 +03:00 [INF] Executed endpoint 'students/hub'
+2024-07-31 10:42:18.144 +03:00 [INF] ResponseBody: Connection ID required
+2024-07-31 10:42:18.145 +03:00 [INF] Duration: 16.0397ms
+2024-07-31 10:42:18.146 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/students/hub - 400 null text/plain 25.3836ms
+2024-07-31 10:42:18.183 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/favicon.ico - null null
+2024-07-31 10:42:18.186 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:7125
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: [Redacted]
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-31 10:42:18.189 +03:00 [INF] Response:
+StatusCode: 404
+2024-07-31 10:42:18.190 +03:00 [INF] Duration: 4.0432ms
+2024-07-31 10:42:18.191 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/favicon.ico - 404 0 null 8.8966ms
+2024-07-31 10:42:18.195 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7125/favicon.ico, Response status code: 404
+2024-07-31 10:42:25.712 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 214
+2024-07-31 10:42:25.716 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 214
+Postman-Token: [Redacted]
+2024-07-31 10:42:25.722 +03:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidLifetimeException: IDX10230: Lifetime validation failed. Delegate returned false, securitytoken: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2024-07-31 10:42:25.786 +03:00 [INF] Admin was not authenticated. Failure message: IDX10230: Lifetime validation failed. Delegate returned false, securitytoken: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+2024-07-31 10:42:25.788 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-07-31 10:42:25.795 +03:00 [INF] AuthenticationScheme: Admin was challenged.
+2024-07-31 10:42:25.796 +03:00 [INF] RequestBody: [Not consumed by app]
+2024-07-31 10:42:25.797 +03:00 [INF] Response:
+StatusCode: 401
+WWW-Authenticate: [Redacted]
+2024-07-31 10:42:25.798 +03:00 [INF] Duration: 82.0096ms
+2024-07-31 10:42:25.800 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 401 0 null 88.4749ms
+2024-07-31 10:42:32.751 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-31 10:42:32.754 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-31 10:42:32.755 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 10:42:32.760 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-31 10:42:32.763 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-31 10:42:33.010 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 10:42:33.031 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 10:42:33.157 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 10:42:33.166 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 10:42:33.202 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-31 10:42:33.214 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-31 10:42:33.220 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-31 10:42:33.222 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 459.3987ms
+2024-07-31 10:42:33.223 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 10:42:33.224 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjI0MTE3NTMsImV4cCI6MTcyMjQxMjY1MywiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.GVKqcQFJcJboseuJgoMGWGBw4zrGur1jcDYxDBZ_vg0","expiration":"2024-07-31T07:57:33.1440216Z","refreshToken":"imis159upFZPHZf/9KfBEuyr7yPQXh1Gu/8JQ4zcxYM="}}
+2024-07-31 10:42:33.225 +03:00 [INF] Duration: 471.2215ms
+2024-07-31 10:42:33.227 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 476.5627ms
+2024-07-31 10:42:48.192 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 214
+2024-07-31 10:42:48.196 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 214
+Postman-Token: [Redacted]
+2024-07-31 10:42:48.198 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 10:42:48.200 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 10:42:48.204 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Erkek",
+  "email": "ahmettuncer@gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 10:42:48.221 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (DbType = DateTime2), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Students] ([Id], [Address], [BirthDate], [CreatedDate], [Email], [FirstName], [Gender], [LastName], [PhoneNumber], [UpdatedDate])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+2024-07-31 10:42:48.223 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-31 10:42:48.224 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 21.5253ms
+2024-07-31 10:42:48.226 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 10:42:48.228 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-31 10:42:48.229 +03:00 [INF] Duration: 33.2287ms
+2024-07-31 10:42:48.230 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 200 0 null 37.9605ms
+2024-07-31 10:42:52.695 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/students/hub - null null
+2024-07-31 10:42:52.700 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /students/hub
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7125
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+priority: [Redacted]
+2024-07-31 10:42:52.702 +03:00 [INF] Executing endpoint 'students/hub'
+2024-07-31 10:42:52.703 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: text/plain
+Cache-Control: [Redacted]
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Pragma: [Redacted]
+2024-07-31 10:42:52.704 +03:00 [INF] Executed endpoint 'students/hub'
+2024-07-31 10:42:52.706 +03:00 [INF] ResponseBody: Connection ID required
+2024-07-31 10:42:52.707 +03:00 [INF] Duration: 6.3525ms
+2024-07-31 10:42:52.708 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/students/hub - 400 null text/plain 13.2159ms
+2024-07-31 12:35:10.423 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 12:35:10.630 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-31 12:35:10.631 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-31 12:35:10.633 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 12:35:10.635 +03:00 [INF] Hosting environment: Development
+2024-07-31 12:35:10.636 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-31 12:35:11.183 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-31 12:35:11.372 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 191.3014ms
+2024-07-31 12:35:11.378 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-31 12:35:11.378 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 12:35:11.397 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 19.4024ms
+2024-07-31 12:35:11.431 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.9495ms
+2024-07-31 12:35:11.466 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-31 12:35:11.541 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 75.2159ms
+2024-07-31 15:25:31.770 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 15:25:32.031 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-31 15:25:32.033 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-31 15:25:32.035 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 15:25:32.036 +03:00 [INF] Hosting environment: Development
+2024-07-31 15:25:32.038 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-31 15:25:32.459 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-31 15:25:32.663 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 208.815ms
+2024-07-31 15:25:32.668 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 15:25:32.669 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-31 15:25:32.678 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 10.1599ms
+2024-07-31 15:25:32.716 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.7448ms
+2024-07-31 15:25:32.791 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-31 15:25:32.875 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 85.1681ms
+2024-07-31 16:14:32.497 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 16:14:32.721 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-31 16:14:32.723 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-31 16:14:32.726 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 16:14:32.727 +03:00 [INF] Hosting environment: Development
+2024-07-31 16:14:32.727 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-31 16:14:33.383 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-31 16:14:33.581 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 200.9564ms
+2024-07-31 16:14:33.588 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 16:14:33.588 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-31 16:14:33.597 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 9.0885ms
+2024-07-31 16:14:33.629 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.6233ms
+2024-07-31 16:14:33.737 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-31 16:14:33.817 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 80.7058ms
+2024-07-31 16:14:41.515 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-31 16:14:41.527 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-31 16:14:41.545 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 16:14:41.580 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-31 16:14:41.611 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-31 16:14:42.699 +03:00 [INF] Executed DbCommand (35ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 16:14:42.725 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 16:14:42.950 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 16:14:42.958 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 16:14:43.043 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-31 16:14:43.062 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-31 16:14:43.071 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:14:43.081 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 1494.3724ms
+2024-07-31 16:14:43.084 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 16:14:43.086 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjI0MzE2ODIsImV4cCI6MTcyMjQzMjU4MiwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.3zpE7m7nLb4-kqcaE_vY7NXUol-0Mb__qGDxIJKZtGw","expiration":"2024-07-31T13:29:42.9083842Z","refreshToken":"1TsmfabxiAm8xvlyb1s4vch3CvpTPsT7uJDfLM38ljU="}}
+2024-07-31 16:14:43.091 +03:00 [INF] Duration: 1563.4555ms
+2024-07-31 16:14:43.099 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 1584.058ms
+2024-07-31 16:15:16.426 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 205
+2024-07-31 16:15:16.430 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 205
+Postman-Token: [Redacted]
+2024-07-31 16:15:16.494 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:16.500 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:15:16.505 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Erkekdfs",
+  "email": "gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 16:15:16.548 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.IEnumerable`1[[<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], StudentPortalAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]'.
+2024-07-31 16:15:16.556 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:15:16.558 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 55.869ms
+2024-07-31 16:15:16.560 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:16.561 +03:00 [INF] ResponseBody: [{"key":"Email","value":[{"errorMessage":"Please enter a valid Email address!"}]},{"key":"Gender","value":[{"errorMessage":"Please enter a valid Gender (Male or Female)!"}]}]
+2024-07-31 16:15:16.562 +03:00 [INF] Duration: 132.6717ms
+2024-07-31 16:15:16.564 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 400 null application/json; charset=utf-8 138.2651ms
+2024-07-31 16:15:39.869 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 203
+2024-07-31 16:15:39.877 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 203
+Postman-Token: [Redacted]
+2024-07-31 16:15:39.884 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:39.885 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:15:39.888 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Kadın",
+  "email": "gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 16:15:39.892 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.IEnumerable`1[[<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], StudentPortalAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]'.
+2024-07-31 16:15:39.897 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:15:39.899 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 12.0523ms
+2024-07-31 16:15:39.900 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:39.901 +03:00 [INF] ResponseBody: [{"key":"Email","value":[{"errorMessage":"Please enter a valid Email address!"}]},{"key":"Gender","value":[{"errorMessage":"Please enter a valid Gender (Male or Female)!"}]}]
+2024-07-31 16:15:39.902 +03:00 [INF] Duration: 24.8975ms
+2024-07-31 16:15:39.903 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 400 null application/json; charset=utf-8 33.4291ms
+2024-07-31 16:15:46.102 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 202
+2024-07-31 16:15:46.105 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 202
+Postman-Token: [Redacted]
+2024-07-31 16:15:46.108 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:46.110 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:15:46.114 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Erkek",
+  "email": "gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 16:15:46.117 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.IEnumerable`1[[<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], StudentPortalAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]'.
+2024-07-31 16:15:46.118 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:15:46.120 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 7.7368ms
+2024-07-31 16:15:46.121 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:46.122 +03:00 [INF] ResponseBody: [{"key":"Email","value":[{"errorMessage":"Please enter a valid Email address!"}]},{"key":"Gender","value":[{"errorMessage":"Please enter a valid Gender (Male or Female)!"}]}]
+2024-07-31 16:15:46.123 +03:00 [INF] Duration: 17.8009ms
+2024-07-31 16:15:46.124 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 400 null application/json; charset=utf-8 22.2771ms
+2024-07-31 16:15:59.529 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 211
+2024-07-31 16:15:59.533 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 211
+Postman-Token: [Redacted]
+2024-07-31 16:15:59.535 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:59.536 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:15:59.539 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Erkek",
+  "email": "salkjasg@gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 16:15:59.542 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.IEnumerable`1[[<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], StudentPortalAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]'.
+2024-07-31 16:15:59.544 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:15:59.545 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 6.8195ms
+2024-07-31 16:15:59.547 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:15:59.548 +03:00 [INF] ResponseBody: [{"key":"Gender","value":[{"errorMessage":"Please enter a valid Gender (Male or Female)!"}]}]
+2024-07-31 16:15:59.550 +03:00 [INF] Duration: 16.8158ms
+2024-07-31 16:15:59.552 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 400 null application/json; charset=utf-8 22.9228ms
+2024-07-31 16:16:24.534 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Students - application/json 210
+2024-07-31 16:16:24.538 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 210
+Postman-Token: [Redacted]
+2024-07-31 16:16:24.539 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:16:24.540 +03:00 [INF] Route matched with {action = "Post", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(StudentPortalAPI.Application.Features.Commands.Students.CreateStudent.CreateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:16:24.542 +03:00 [INF] RequestBody: {
+  "firstName": "Ahmet",
+  "lastName": "Tuncer",
+  "birthDate": "2000-07-31T07:28:05.043Z",
+  "gender": "Male",
+  "email": "salkjasg@gmail.com",
+  "phoneNumber": "05642825688",
+  "address": "Tunceli"
+}
+2024-07-31 16:16:24.654 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (DbType = DateTime2), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Students] ([Id], [Address], [BirthDate], [CreatedDate], [Email], [FirstName], [Gender], [LastName], [PhoneNumber], [UpdatedDate])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9);
+2024-07-31 16:16:24.660 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-31 16:16:24.662 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api) in 119.926ms
+2024-07-31 16:16:24.663 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Post (StudentPortalAPI.Api)'
+2024-07-31 16:16:24.664 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-31 16:16:24.665 +03:00 [INF] Duration: 127.2245ms
+2024-07-31 16:16:24.666 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Students - 200 0 null 132.4345ms
+2024-07-31 16:41:41.676 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-31 16:41:41.878 +03:00 [INF] Now listening on: https://localhost:7125
+2024-07-31 16:41:41.879 +03:00 [INF] Now listening on: http://localhost:5291
+2024-07-31 16:41:41.881 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-31 16:41:41.882 +03:00 [INF] Hosting environment: Development
+2024-07-31 16:41:41.884 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-07-31 16:41:42.458 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-07-31 16:41:42.646 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 191.418ms
+2024-07-31 16:41:42.653 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-07-31 16:41:42.653 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-31 16:41:42.671 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 18.7968ms
+2024-07-31 16:41:42.709 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 57.0072ms
+2024-07-31 16:41:42.855 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-07-31 16:41:42.961 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 106.9969ms
+2024-07-31 16:42:33.519 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7125/api/Auth/Login - application/json 76
+2024-07-31 16:42:33.529 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: https
+PathBase: 
+Path: /api/Auth/Login
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 76
+Postman-Token: [Redacted]
+2024-07-31 16:42:33.540 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 16:42:33.561 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandRequest) on controller StudentPortalAPI.Api.Controllers.AuthController (StudentPortalAPI.Api).
+2024-07-31 16:42:33.585 +03:00 [INF] RequestBody: {
+  "userNameOrEmail": "mahmut05@gmail.com",
+  "password": "Mahmut123."
+}
+2024-07-31 16:42:34.605 +03:00 [INF] Executed DbCommand (33ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 16:42:34.634 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 16:42:34.842 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-07-31 16:42:34.853 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NameSurname], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[RefreshToken], [a].[RefreshTokenEndDate], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-07-31 16:42:34.948 +03:00 [INF] Executed DbCommand (11ms) [Parameters=[@p17='?' (Size = 450), @p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p18='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (DbType = Boolean), @p4='?' (DbType = Boolean), @p5='?' (DbType = DateTimeOffset), @p6='?' (Size = 4000), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = DateTime2), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [AspNetUsers] SET [AccessFailedCount] = @p0, [ConcurrencyStamp] = @p1, [Email] = @p2, [EmailConfirmed] = @p3, [LockoutEnabled] = @p4, [LockoutEnd] = @p5, [NameSurname] = @p6, [NormalizedEmail] = @p7, [NormalizedUserName] = @p8, [PasswordHash] = @p9, [PhoneNumber] = @p10, [PhoneNumberConfirmed] = @p11, [RefreshToken] = @p12, [RefreshTokenEndDate] = @p13, [SecurityStamp] = @p14, [TwoFactorEnabled] = @p15, [UserName] = @p16
+OUTPUT 1
+WHERE [Id] = @p17 AND [ConcurrencyStamp] = @p18;
+2024-07-31 16:42:34.967 +03:00 [INF] Executing OkObjectResult, writing value of type 'StudentPortalAPI.Application.Features.Commands.AppUsers.LoginUser.LoginUserCommandResponse'.
+2024-07-31 16:42:34.976 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:42:34.982 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api) in 1415.6162ms
+2024-07-31 16:42:34.984 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.AuthController.Login (StudentPortalAPI.Api)'
+2024-07-31 16:42:34.987 +03:00 [INF] ResponseBody: {"token":{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoibWFobXV0MDUiLCJuYmYiOjE3MjI0MzMzNTQsImV4cCI6MTcyMjQzNDI1NCwiaXNzIjoid3d3Lm15YXBpLmNvbSIsImF1ZCI6Ind3dy5rdWxsYW7EsWPEsS5jb20ifQ.ZAumam7crLfOmn3WMbpIOUy2OWWF8dP605X2iuBTaoA","expiration":"2024-07-31T13:57:34.7989029Z","refreshToken":"omRG9/3RtpFbiZ+Qb/jpc8S7hNIfOzjKoe01k7yG+Tc="}}
+2024-07-31 16:42:34.991 +03:00 [INF] Duration: 1462.4504ms
+2024-07-31 16:42:35.000 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7125/api/Auth/Login - 200 null application/json; charset=utf-8 1481.6658ms
+2024-07-31 16:43:12.891 +03:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7125/api/Students - application/json 102
+2024-07-31 16:43:12.894 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 102
+Postman-Token: [Redacted]
+2024-07-31 16:43:12.954 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:43:12.960 +03:00 [INF] Route matched with {action = "Put", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Put(StudentPortalAPI.Application.Features.Commands.Students.UpdateStudent.UpdateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:43:12.966 +03:00 [INF] RequestBody: {
+  "id": "08dcaa5a698f",
+  "email": "string",
+  "phoneNumber": "string",
+  "address": "string"
+}
+2024-07-31 16:43:13.003 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.IEnumerable`1[[<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], StudentPortalAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]'.
+2024-07-31 16:43:13.012 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:43:13.014 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api) in 50.8575ms
+2024-07-31 16:43:13.015 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:43:13.017 +03:00 [INF] ResponseBody: [{"key":"Email","value":[{"errorMessage":"Please enter a valid Email address!"}]}]
+2024-07-31 16:43:13.018 +03:00 [INF] Duration: 123.4072ms
+2024-07-31 16:43:13.019 +03:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7125/api/Students - 400 null application/json; charset=utf-8 128.4626ms
+2024-07-31 16:44:23.990 +03:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7125/api/Students - application/json 90
+2024-07-31 16:44:23.998 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 90
+Postman-Token: [Redacted]
+2024-07-31 16:44:24.003 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:44:24.004 +03:00 [INF] Route matched with {action = "Put", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Put(StudentPortalAPI.Application.Features.Commands.Students.UpdateStudent.UpdateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:44:24.008 +03:00 [INF] RequestBody: {
+  "id": "08dcaa5a698f",
+  "email": "string",
+  "phoneNumber": "",
+  "address": ""
+}
+2024-07-31 16:44:24.025 +03:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.IEnumerable`1[[<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], StudentPortalAPI.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]'.
+2024-07-31 16:44:24.026 +03:00 [INF] Response:
+StatusCode: 400
+Content-Type: application/json; charset=utf-8
+2024-07-31 16:44:24.027 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api) in 21.0649ms
+2024-07-31 16:44:24.028 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:44:24.030 +03:00 [INF] ResponseBody: [{"key":"Email","value":[{"errorMessage":"Please enter a valid Email address!"}]},{"key":"Address","value":[{"errorMessage":"'Address' boş olmamalı."},{"errorMessage":"Please enter your Firts Name between 5 and 50 characters!"}]},{"key":"PhoneNumber","value":[{"errorMessage":"'Phone Number' boş olmamalı."}]}]
+2024-07-31 16:44:24.031 +03:00 [INF] Duration: 32.4362ms
+2024-07-31 16:44:24.032 +03:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7125/api/Students - 400 null application/json; charset=utf-8 41.8631ms
+2024-07-31 16:45:00.683 +03:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7125/api/Students - application/json 113
+2024-07-31 16:45:00.686 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 113
+Postman-Token: [Redacted]
+2024-07-31 16:45:00.689 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:45:00.690 +03:00 [INF] Route matched with {action = "Put", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Put(StudentPortalAPI.Application.Features.Commands.Students.UpdateStudent.UpdateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:45:00.694 +03:00 [INF] RequestBody: {
+  "id": "08dcaa5a698f",
+  "email": "aldgkjg@gmail.com",
+  "phoneNumber": "string",
+  "address": "string"
+}
+2024-07-31 16:45:00.922 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api) in 230.275ms
+2024-07-31 16:45:00.924 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:45:00.946 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-31 16:45:00.947 +03:00 [INF] Duration: 261.635ms
+2024-07-31 16:45:00.951 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ ---> System.FormatException: Unrecognized Guid format.
+   at System.Guid.GuidResult.SetFailure(ParseFailure failureKind)
+   at System.Guid.TryParseGuid(ReadOnlySpan`1 guidString, GuidResult& result)
+   at System.Guid.Parse(ReadOnlySpan`1 input)
+   at System.Guid.Parse(String input)
+   at System.Linq.Expressions.Interpreter.FuncCallInstruction`2.Run(InterpretedFrame frame)
+   at System.Linq.Expressions.Interpreter.Interpreter.Run(InterpretedFrame frame)
+   at System.Linq.Expressions.Interpreter.LightLambda.Run(Object[] arguments)
+   at System.Dynamic.Utils.DelegateHelpers.FuncThunk[TReturn](Func`2 handler)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.VisitBinary(BinaryExpression binaryExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.VisitMethodCall(MethodCallExpression methodCallExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExtractParameters(Expression query, IParameterValues parameterValues, IDiagnosticsLogger`1 logger, Boolean parameterize, Boolean generateContextAccessors)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteAsync[TResult](Expression query, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.ExecuteAsync[TResult](Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, LambdaExpression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, Expression`1 predicate, CancellationToken cancellationToken)
+   at StudentPortalAPI.Persistence.Repositories.ReadRepository`1.GetByIdAsync(String id, Boolean enableTracking)
+   at StudentPortalAPI.Application.Features.Commands.Students.UpdateStudent.UpdateStudentCommandHandler.Handle(UpdateStudentCommandRequest request, CancellationToken cancellationToken) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\Features\Commands\Students\UpdateStudent\UpdateStudentCommandHandler.cs:line 26
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at StudentPortalAPI.Api.Controllers.StudentsController.Put(UpdateStudentCommandRequest updateStudentCommandRequest) in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Controllers\StudentsController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api\Program.cs:line 117
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-07-31 16:45:01.022 +03:00 [ERR] An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2024-07-31 16:45:01.028 +03:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7125/api/Students - 500 null application/json 345.3276ms
+2024-07-31 16:45:10.406 +03:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7125/api/Students - application/json 137
+2024-07-31 16:45:10.409 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: PUT
+Scheme: https
+PathBase: 
+Path: /api/Students
+Accept: */*
+Connection: keep-alive
+Host: localhost:7125
+User-Agent: PostmanRuntime/7.40.0
+Accept-Encoding: gzip, deflate, br
+Authorization: [Redacted]
+Content-Type: application/json
+Content-Length: 137
+Postman-Token: [Redacted]
+2024-07-31 16:45:10.411 +03:00 [INF] Executing endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:45:10.412 +03:00 [INF] Route matched with {action = "Put", controller = "Students"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Put(StudentPortalAPI.Application.Features.Commands.Students.UpdateStudent.UpdateStudentCommandRequest) on controller StudentPortalAPI.Api.Controllers.StudentsController (StudentPortalAPI.Api).
+2024-07-31 16:45:10.414 +03:00 [INF] RequestBody: {
+  "id": "fbabde47-f900-4658-3e15-08dcaa5a698f",
+  "email": "aldgkjg@gmail.com",
+  "phoneNumber": "string",
+  "address": "string"
+}
+2024-07-31 16:45:10.435 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@__Parse_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [s].[Id], [s].[Address], [s].[BirthDate], [s].[CreatedDate], [s].[Email], [s].[FirstName], [s].[Gender], [s].[LastName], [s].[PhoneNumber], [s].[UpdatedDate]
+FROM [Students] AS [s]
+WHERE [s].[Id] = @__Parse_0
+2024-07-31 16:45:10.485 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@p4='?' (DbType = Guid), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Students] SET [Address] = @p0, [Email] = @p1, [PhoneNumber] = @p2, [UpdatedDate] = @p3
+OUTPUT 1
+WHERE [Id] = @p4;
+2024-07-31 16:45:10.490 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-07-31 16:45:10.491 +03:00 [INF] Executed action StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api) in 77.0036ms
+2024-07-31 16:45:10.493 +03:00 [INF] Executed endpoint 'StudentPortalAPI.Api.Controllers.StudentsController.Put (StudentPortalAPI.Api)'
+2024-07-31 16:45:10.495 +03:00 [INF] Response:
+StatusCode: 200
+2024-07-31 16:45:10.496 +03:00 [INF] Duration: 87.1081ms
+2024-07-31 16:45:10.497 +03:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7125/api/Students - 200 0 null 91.4639ms
+2024-08-10 15:24:05.650 +03:00 [INF] User profile is available. Using 'C:\Users\yilma\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-08-10 15:24:06.205 +03:00 [INF] Now listening on: https://localhost:7125
+2024-08-10 15:24:06.206 +03:00 [INF] Now listening on: http://localhost:5291
+2024-08-10 15:24:06.209 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-10 15:24:06.210 +03:00 [INF] Hosting environment: Development
+2024-08-10 15:24:06.211 +03:00 [INF] Content root path: C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Presentation\StudentPortalAPI.Api
+2024-08-10 15:24:07.483 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger - null null
+2024-08-10 15:24:07.721 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger - 301 0 null 244.3063ms
+2024-08-10 15:24:07.727 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/index.html - null null
+2024-08-10 15:24:07.821 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/index.html - 200 null text/html;charset=utf-8 93.99ms
+2024-08-10 15:24:08.243 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/swagger-ui.css - null null
+2024-08-10 15:24:08.246 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_vs/browserLink - null null
+2024-08-10 15:24:08.244 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - null null
+2024-08-10 15:24:08.244 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/swagger-ui-standalone-preset.js - null null
+2024-08-10 15:24:08.244 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/swagger-ui-bundle.js - null null
+2024-08-10 15:24:08.306 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 61.7976ms
+2024-08-10 15:24:08.316 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-08-10 15:24:08.327 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/swagger-ui.css - 200 143943 text/css 84.4211ms
+2024-08-10 15:24:08.327 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-08-10 15:24:08.337 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 93.0051ms
+2024-08-10 15:24:08.366 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-08-10 15:24:08.366 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/_vs/browserLink - 200 null text/javascript; charset=UTF-8 121.3443ms
+2024-08-10 15:24:08.368 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 124.601ms
+2024-08-10 15:24:08.511 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - null null
+2024-08-10 15:24:08.541 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7125/swagger/favicon-32x32.png - null null
+2024-08-10 15:24:08.544 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-08-10 15:24:08.546 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/favicon-32x32.png - 200 628 image/png 5.419ms
+2024-08-10 15:24:08.611 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7125/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 100.5832ms

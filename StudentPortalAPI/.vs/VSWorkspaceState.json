@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\StudentPortalAPI.Application",
+    "\\Core\\StudentPortalAPI.Application\\Features\\Commands",
+    "\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students",
+    "\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent",
+    "\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent",
+    "\\Infrastructure",
+    "\\Infrastructure\\StudentPortalAPI.Persistence",
+    "\\Infrastructure\\StudentPortalAPI.Persistence\\Repositories"
+  ],
+  "SelectedNode": "\\Presentation\\StudentPortalAPI.Api\\Controllers\\StudentsController.cs",
+  "PreviewInSolutionExplorer": false
+}

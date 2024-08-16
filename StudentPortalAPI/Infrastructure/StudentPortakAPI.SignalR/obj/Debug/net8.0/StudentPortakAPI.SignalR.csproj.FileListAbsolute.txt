@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.AssemblyInfo.cs
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortakAPI.SignalR.deps.json
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortakAPI.SignalR.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortakAPI.SignalR.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortalAPI.Application.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortalAPI.Application.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\bin\Debug\net8.0\StudentPortalAPI.Domain.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentP.91E6A0A7.Up2Date
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\refint\StudentPortakAPI.SignalR.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\StudentPortakAPI.SignalR.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortakAPI.SignalR\obj\Debug\net8.0\ref\StudentPortakAPI.SignalR.dll

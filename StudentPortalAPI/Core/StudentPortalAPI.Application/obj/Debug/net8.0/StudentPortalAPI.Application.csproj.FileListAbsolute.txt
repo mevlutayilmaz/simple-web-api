@@ -1,0 +1,15 @@
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\bin\Debug\net8.0\StudentPortalAPI.Application.deps.json
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\bin\Debug\net8.0\StudentPortalAPI.Application.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\bin\Debug\net8.0\StudentPortalAPI.Application.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\bin\Debug\net8.0\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\bin\Debug\net8.0\StudentPortalAPI.Domain.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.AssemblyInfo.cs
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentP.EA0A57F1.Up2Date
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\refint\StudentPortalAPI.Application.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\StudentPortalAPI.Application.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Application\obj\Debug\net8.0\ref\StudentPortalAPI.Application.dll

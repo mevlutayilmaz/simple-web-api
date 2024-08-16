@@ -1,0 +1,12 @@
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\bin\Debug\net8.0\StudentPortalAPI.Domain.deps.json
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\bin\Debug\net8.0\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\bin\Debug\net8.0\StudentPortalAPI.Domain.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.AssemblyInfo.cs
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\refint\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\ref\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Core\StudentPortalAPI.Domain\obj\Debug\net8.0\StudentPortalAPI.Domain.csproj.AssemblyReference.cache

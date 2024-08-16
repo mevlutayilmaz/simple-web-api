@@ -1,0 +1,17 @@
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Infrastructure.deps.json
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Infrastructure.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Infrastructure.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Application.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Domain.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Application.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\bin\Debug\net8.0\StudentPortalAPI.Domain.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentP.1CAC77BF.Up2Date
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\refint\StudentPortalAPI.Infrastructure.dll
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\StudentPortalAPI.Infrastructure.pdb
+C:\Users\yilma\Desktop\StudentPortal\StudentPortalAPI\Infrastructure\StudentPortalAPI.Infrastructure\obj\Debug\net8.0\ref\StudentPortalAPI.Infrastructure.dll

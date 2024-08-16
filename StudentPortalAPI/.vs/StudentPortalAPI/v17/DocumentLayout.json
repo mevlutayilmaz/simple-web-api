@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\presentation\\studentportalapi.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|solutionrelative:presentation\\studentportalapi.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\students\\removestudent\\removestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\students\\removestudent\\removestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\students\\removestudent\\removestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\students\\removestudent\\removestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\students\\removestudent\\removestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\students\\removestudent\\removestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\viewmodels\\courses\\vm_create_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\viewmodels\\courses\\vm_create_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\students\\createstudent\\createstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\students\\createstudent\\createstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\students\\createstudent\\createstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\students\\createstudent\\createstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\students\\createstudent\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\students\\createstudent\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\queires\\students\\getstudentbyid\\getstudentbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\queires\\students\\getstudentbyid\\getstudentbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\queires\\students\\getstudentbyid\\getstudentbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\queires\\students\\getstudentbyid\\getstudentbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\queires\\students\\getallstudent\\getallstudentqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\queires\\students\\getallstudent\\getallstudentqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\queires\\students\\getallstudent\\getallstudentqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\queires\\students\\getallstudent\\getallstudentqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586B757A-A105-4F6A-A06A-84E1EA4DB82C}|Core\\StudentPortalAPI.Domain\\StudentPortalAPI.Domain.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586B757A-A105-4F6A-A06A-84E1EA4DB82C}|Core\\StudentPortalAPI.Domain\\StudentPortalAPI.Domain.csproj|solutionrelative:core\\studentportalapi.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586B757A-A105-4F6A-A06A-84E1EA4DB82C}|Core\\StudentPortalAPI.Domain\\StudentPortalAPI.Domain.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586B757A-A105-4F6A-A06A-84E1EA4DB82C}|Core\\StudentPortalAPI.Domain\\StudentPortalAPI.Domain.csproj|solutionrelative:core\\studentportalapi.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\abstractions\\hubs\\istudenthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\abstractions\\hubs\\istudenthubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\presentation\\studentportalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|solutionrelative:presentation\\studentportalapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\presentation\\studentportalapi.api\\configurations\\columnwriters\\usernamecolumnwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|solutionrelative:presentation\\studentportalapi.api\\configurations\\columnwriters\\usernamecolumnwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\refreshtokenlogin\\refreshtokenlogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\refreshtokenlogin\\refreshtokenlogincommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\refreshtokenlogin\\refreshtokenlogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\refreshtokenlogin\\refreshtokenlogincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\loginuser\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\loginuser\\loginusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\presentation\\studentportalapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|solutionrelative:presentation\\studentportalapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\loginuser\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\loginuser\\loginusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\createuser\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\createuser\\createusercommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\core\\studentportalapi.application\\features\\commands\\appusers\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC61B561-195D-45B7-B5DF-FBBBC4B2F3AD}|Core\\StudentPortalAPI.Application\\StudentPortalAPI.Application.csproj|solutionrelative:core\\studentportalapi.application\\features\\commands\\appusers\\createuser\\createusercommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|c:\\users\\yilma\\desktop\\studentportal\\studentportalapi\\presentation\\studentportalapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4512F0CC-D5FE-42E8-A4E1-6156D11B0ABF}|Presentation\\StudentPortalAPI.Api\\StudentPortalAPI.Api.csproj|solutionrelative:presentation\\studentportalapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:48.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:42.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VM_Create_Course.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\ViewModels\\Courses\\VM_Create_Course.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\ViewModels\\Courses\\VM_Create_Course.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\ViewModels\\Courses\\VM_Create_Course.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\ViewModels\\Courses\\VM_Create_Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentPortalAPI.Api\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Presentation\\StudentPortalAPI.Api\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:05:55.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:39.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:38.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\Students\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:36.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetStudentByIdQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:29.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetStudentByIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetStudentById\\GetStudentByIdQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllStudentQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:20.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllStudentQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Queires\\Students\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:38:19.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:14:43.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Domain\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:14:41.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentHubService.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Abstractions\\Hubs\\IStudentHubService.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Abstractions\\Hubs\\IStudentHubService.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Abstractions\\Hubs\\IStudentHubService.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Abstractions\\Hubs\\IStudentHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:17:37.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentPortalAPI.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Program.cs",
+              "RelativeToolTip": "Presentation\\StudentPortalAPI.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:13:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsernameColumnWriter.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Configurations\\ColumnWriters\\UsernameColumnWriter.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentPortalAPI.Api\\Configurations\\ColumnWriters\\UsernameColumnWriter.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Configurations\\ColumnWriters\\UsernameColumnWriter.cs",
+              "RelativeToolTip": "Presentation\\StudentPortalAPI.Api\\Configurations\\ColumnWriters\\UsernameColumnWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:08:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RefreshTokenLoginCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:47:18.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RefreshTokenLoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\RefreshTokenLogin\\RefreshTokenLoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:47:17.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:45:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:42:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentPortalAPI.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\StudentPortalAPI.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:02:54.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\LoginUser\\LoginUserCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:42:19.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:05:44.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateUserCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandResponse.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandResponse.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:04:41.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateUserCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandRequest.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandRequest.cs",
+              "RelativeToolTip": "Core\\StudentPortalAPI.Application\\Features\\Commands\\AppUsers\\CreateUser\\CreateUserCommandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:04:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentPortalAPI.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\yilma\\Desktop\\StudentPortal\\StudentPortalAPI\\Presentation\\StudentPortalAPI.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\StudentPortalAPI.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:02:55.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
